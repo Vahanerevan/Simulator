@@ -13,7 +13,7 @@ Let's Play.
 =========
 Download unzip open js/show.js.
 
-Aftet   /*START CODE HERE */ Type
+After   /*START CODE HERE */  <br /> Type
 
 ```js
 sim.light(0).setColor(255,0,0);
