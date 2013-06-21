@@ -5,13 +5,15 @@ Tumo (http://tumo.org)  Creative Center Fountain Simulator
 
 http://www.youtube.com/watch?v=Gwzm2ec5AcA&t=0m10s
 
-Frontend JavaScript.
+Frontend JavaScript. 
+<br />
 Backend  NODE JS.
 
 Let's Play.
 =========
 Download unzip open js/show.js.
 
+Aftet   /*START CODE HERE */ Type
 
 ```js
 sim.light(0).setColor(255,0,0);
