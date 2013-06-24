@@ -556,6 +556,17 @@ function range(start, end) {
     return arr;
 }
 
+function rangeSimple(start, end) {
+
+    var arr = new Array();
+    for (var i = start; i < end; i++) 
+    {
+        arr[i] = parseInt(i);
+    }
+    return arr;
+}
+
+
 function rangeReverse(start, end) {
 
     var arr = new Array();
