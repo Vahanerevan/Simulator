@@ -561,7 +561,7 @@ function rangeSimple(start, end) {
     var arr = new Array();
     for (var i = start; i < end; i++) 
     {
-        arr[i] = parseInt(i);
+        arr.push(i);
     }
     return arr;
 }
